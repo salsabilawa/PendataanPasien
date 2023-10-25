@@ -328,6 +328,10 @@ public class DataDokter extends javax.swing.JFrame {
         Login loginForm = new Login();
         loginForm.setVisible(true);
         this.dispose(); // Menutup frame saat ini
+    
+        
+    // coba bikin commit aja
+   
     }
     }//GEN-LAST:event_btn_logoutMouseClicked
 
